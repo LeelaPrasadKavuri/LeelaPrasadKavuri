@@ -1,7 +1,9 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*14v1pUZwr516557dpS-oYw.jpeg)]
+
 <h1 align="center">Hi 👋, I'm Leela Prasad Kavuri</h1>
 <h3 align="center">Aspiring Data Scientist looking for opportunities</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/640/0*61ZaNNpbpMtZLLpZ.">
+<img align="right" alt="Coding" width="400" src="https://emerj.com/wp-content/uploads/2018/04/dropnet.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leelaprasadkavuri&label=Profile%20views&color=0e75b6&style=flat" alt="leelaprasadkavuri" /> </p>
 
