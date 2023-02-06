@@ -1,7 +1,8 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*14v1pUZwr516557dpS-oYw.jpeg)]
 
 <h1 align="center">Hi 👋, I'm Leela Prasad Kavuri</h1>
-<h3 align="center">Aspiring Data Scientist looking for opportunities</h3>
+<h3 style="text-align:center; color:red; font-size:4.5;">Aspiring Data Scientist looking for opportunities</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://emerj.com/wp-content/uploads/2018/04/dropnet.gif">
 
