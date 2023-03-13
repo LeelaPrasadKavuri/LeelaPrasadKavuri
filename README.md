@@ -24,8 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leelaprasadkavuri&" alt="leelaprasadkavuri" /></p>
                                                                                                                               
- <picture>
- 
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+ <picture> 
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </picture>
