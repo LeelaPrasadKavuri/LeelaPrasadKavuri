@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*14v1pUZwr516557dpS-oYw.jpeg" width="600" height="400">
+<img src="![image](https://github.com/LeelaPrasadKavuri/LeelaPrasadKavuri/assets/62127610/901f1bc3-bd48-438e-9ef3-0d7a54343b41)" width="600" height="400">
 
 <h1 align="center">Hi 👋, I'm Leela Prasad Kavuri</h1>
 <h3 align="center">Data Enthusiast</h3>
