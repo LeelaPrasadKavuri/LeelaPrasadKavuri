@@ -1,6 +1,6 @@
-<img src="![image](https://github.com/LeelaPrasadKavuri/LeelaPrasadKavuri/assets/62127610/901f1bc3-bd48-438e-9ef3-0d7a54343b41)" width="600" height="400">
+<img src="https://github.com/LeelaPrasadKavuri/LeelaPrasadKavuri/assets/62127610/901f1bc3-bd48-438e-9ef3-0d7a54343b41" width="400" height="400">
 
-<h1 align="center">Hi 👋, I'm Leela Prasad Kavuri</h1>
+<h1 align="center">Hi 👋, This is Leela Prasad Kavuri</h1>
 <h3 align="center">Data Enthusiast</h3>
 
 - 📫 How to reach me **prasadleelakavuri14081998@gmail.com**
